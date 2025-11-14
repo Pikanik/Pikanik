@@ -20,3 +20,5 @@ a pleasure to meet you 😉😉😉<br/>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 📪How To Reach Me
+Gmail : meliodasu2469@gmail.com
+Discord : @meliodasu8007
